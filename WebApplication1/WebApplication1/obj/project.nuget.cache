@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CpFFxxKAaCY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Garrett Vizcarra\\source\\repos\\Gar558\\NET9WebApp1\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Garrett Vizcarra\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100-rc.2.24474.11\\microsoft.net.sdk.compilers.toolset.9.0.100-rc.2.24474.11.nupkg.sha512"
+  ],
+  "logs": []
+}
